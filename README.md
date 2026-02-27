@@ -7,7 +7,7 @@
 
 - 🌱 Currently working **Springboot**
 
-- 💬 Ask me about **Backend**
+- 💬 Ask me about **Backend**, **Gen AI**
 
 - 📫 How to reach me **ansh2003mishra@gmail.com**
 
